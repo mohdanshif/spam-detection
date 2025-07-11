@@ -8,7 +8,7 @@ Edit
 
 A fun, retro-style Flask web app to detect whether a given text message is spam or not, using an NLP machine learning model.
 
-![Spam Detection Screenshot](https://via.placeholder.com/800x400.png?text=Spam+Detection+App+Preview)
+![Spam Detection Screenshot](Screenshot.png)
 
 ---
 
